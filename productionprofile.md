@@ -1,2 +1,1 @@
-módulo de pruebas 
-ok
+módulo de pruebas erróneas
